@@ -1,2 +1,4 @@
 # C-Library
-Self-Made Function Library written in C. 
+Self-Made Function Library written in plain C. Features array methods and GNL.
+
+
